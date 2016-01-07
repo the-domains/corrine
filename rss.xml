@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Corrine]]></title>
-        <description><![CDATA[Corrine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Corrine Kenner]]></title>
+        <description><![CDATA[Corrine Kenner]]></description>
+        <link>https://thegrid.ai/corrine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 16:57:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 16:59:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corrine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e830043-7c22-40ee-ae72-f8cb4377e37f.jpg">]]></description>
+            <link>https://thegrid.ai/corrine/0cbff21e-16e3-4355-bcb3-619e01174fb2/index.html</link>
+            <guid isPermaLink="false">0cbff21e-16e3-4355-bcb3-619e01174fb2</guid>
+            <pubDate>Thu, 07 Jan 2016 16:58:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>At Mandrake Academy, you are the student ... and tarot is the teacher.</p>]]></description>
-            <link>undefined4575dbcb-8108-4d96-9ae3-c009f405ad17/index.html</link>
+            <link>https://thegrid.ai/corrine/4575dbcb-8108-4d96-9ae3-c009f405ad17/index.html</link>
             <guid isPermaLink="false">4575dbcb-8108-4d96-9ae3-c009f405ad17</guid>
             <pubDate>Thu, 07 Jan 2016 16:57:03 GMT</pubDate>
         </item>
