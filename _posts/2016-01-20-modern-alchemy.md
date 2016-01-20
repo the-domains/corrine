@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: MY ELIXIR
-datePublished: '2016-01-20T03:11:25.281Z'
+datePublished: '2016-01-20T03:11:25.412Z'
 dateModified: '2016-01-20T03:11:22.669Z'
 title: "M o D e R n \_A l C h E m Y"
 author: []
