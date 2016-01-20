@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: MY ELIXIR
-datePublished: '2016-01-20T02:48:05.462Z'
-dateModified: '2016-01-20T02:48:00.892Z'
-title: "M O D E R N \_A L C H E M Y"
+datePublished: '2016-01-20T03:11:25.281Z'
+dateModified: '2016-01-20T03:11:22.669Z'
+title: "M o D e R n \_A l C h E m Y"
 author: []
 sourcePath: _posts/2016-01-20-modern-alchemy.md
 published: true
@@ -22,9 +22,9 @@ url: modern-alchemy/index.html
 _type: Article
 
 ---
-# M O D E R N  A L C H E M Y
+# M o D e R n  A l C h E m Y
 
-## The Elixer of Life that Quickens my Death
+## the elixer of life that quickens my death
 
 _and also causes acne_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bed8996b8836320c4e55649fb9a277a00d5a8ac7.jpg)
