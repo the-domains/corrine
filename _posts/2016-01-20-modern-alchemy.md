@@ -6,23 +6,28 @@ inLanguage: null
 starred: true
 keywords: []
 description: MY ELIXIR
-datePublished: '2016-01-20T02:30:51.038Z'
-dateModified: '2016-01-20T02:30:21.884Z'
-title: Modern Alchemy
+datePublished: '2016-01-20T02:47:25.004Z'
+dateModified: '2016-01-20T02:47:15.301Z'
+title: "M O D E R N \_A L C H E M Y"
 author: []
+sourcePath: _posts/2016-01-20-modern-alchemy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-modern-alchemy.md
-published: true
 url: modern-alchemy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b813f57-fc14-4395-a11f-405ee066d6fd.jpg)
+# M O D E R N  A L C H E M Y
+
+## The Elixer of Life that Quickens our Death
+
+_and also causes acne_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bed8996b8836320c4e55649fb9a277a00d5a8ac7.jpg)
 
 **Carbonated water,** refresh me
 
@@ -35,3 +40,5 @@ _type: Article
 **Potassium benzate, **protect me from all harm
 
 > # The fine print: Not a significant source of calories from fat, saturated fat, trans fat, cholesterol, dietary fiber, sugars, vitamin A, vitamin C, calcium and iron.
+> 
+>
